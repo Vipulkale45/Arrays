@@ -1,5 +1,5 @@
 package JAP82.Array;
-
+//Object create using new keyword
 //import java.util.Arrays;
 
 public class UsingNewKeyword {
@@ -14,3 +14,4 @@ public class UsingNewKeyword {
 		}
     }
 }
+
